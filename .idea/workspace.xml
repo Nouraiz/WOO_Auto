@@ -19,7 +19,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/edepot-products/cropping_im.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,10 +63,10 @@
         <option value="$PROJECT_DIR$/edepot-products/create_folder_struct.py" />
         <option value="$PROJECT_DIR$/edepot-products/copy_struct.py" />
         <option value="$PROJECT_DIR$/edepot-products/duplicating_im.py" />
-        <option value="$PROJECT_DIR$/edepot-products/cropping_im.py" />
         <option value="$PROJECT_DIR$/edepot-products/delete_im.py" />
         <option value="$PROJECT_DIR$/edepot-products/resize_im.py" />
         <option value="$PROJECT_DIR$/edepot-products/removeBackground_im.py" />
+        <option value="$PROJECT_DIR$/edepot-products/cropping_im.py" />
       </list>
     </option>
   </component>
@@ -357,7 +370,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585497495412</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="commit - v2&#10;TODO - combine all scripts as functions in one.&#10;TODO - optimise code (runtime / parallelize)">
+      <created>1585509696385</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1585509696385</updated>
+    </task>
+    <task id="LOCAL-00015" summary="commit - v2&#10;TODO - combine all scripts as functions in one.&#10;TODO - optimise code (runtime / parallelize)">
+      <created>1585509880234</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1585509880234</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -371,6 +398,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22523117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -524,22 +552,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/edepot-products/cropping_im.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="27" selection-start-line="27" selection-end-line="30" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/edepot-products/removeBackground_im.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edepot-products/cropping_im.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
